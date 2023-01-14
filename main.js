@@ -12,8 +12,9 @@ while (true) {
     }
 
     if (n.length > 0) {
-        alert("What if gusto kita");
-        alert('What if Tayo nalang');
+        alert("hi ako parin ba");
+        alert('pano pag hindi na');
+        alert('pano nako');
         alert('I love You ' + n);
         main.style.display = 'block';
         break;
