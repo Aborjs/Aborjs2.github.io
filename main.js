@@ -15,6 +15,8 @@ while (true) {
         alert("hi ako parin ba");
         alert('pano pag hindi na');
         alert('pano nako');
+        alert('hindi ko na alam gagawin kung wala ka');
+        alert('i like ya cut g');
         alert('I love You ' + n);
         main.style.display = 'block';
         break;
