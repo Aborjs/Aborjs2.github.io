@@ -8,7 +8,7 @@ while (true) {
     if(n == null) {
         main.style.display = "none";
         cancel.style.display = "flex";
-        msg.innerHTML = "what!!! kung ako 'yan hindi kita ginaganyan because as an atenean you deserve guys like me uh uh omsim";
+        msg.innerHTML = "what!!! kung ako 'yan hindi kita ginaganyan because as an atenean you we do what best for girls like you and you deserve guys like me uh uh omsim";
     }
 
     if (n.length > 0) {
