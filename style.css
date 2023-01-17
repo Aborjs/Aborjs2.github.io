@@ -22,8 +22,8 @@
 .card {
     position: relative;
     margin-top: 20px;
-    width:400 px;
-    height: 500px;
+    width:180 px;
+    height: 190px;
     background: #c3b6af;
     display: flex;
     place-content: center;
